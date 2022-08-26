@@ -10,7 +10,7 @@
    4   │ I mostly work on web3, primarily Solana.
    5   │ 
    6   │ ## Connect With Me
-   7   │ + [Website](https://0xdeepmehta.github.io/)
+   7   │ + [Twitter](https://twitter.com/0xDeepp)
    8   │ + [Discord](https://discord.gg/u4Z6QCkhxv)
 ──────┴──────────────────────────────────────────────────────────────
  📂 ~/code  
